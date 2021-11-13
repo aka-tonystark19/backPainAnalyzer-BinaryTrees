@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeapADT
+comment0.text=\r\n\ HeapADT\ defines\ the\ interface\ to\ a\ Heap.\r\n\r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=obj
+comment1.target=void\ addElement(java.lang.Object)
+comment1.text=\ \r\n\ Adds\ the\ specified\ object\ to\ this\ heap.\ \r\n\r\n\ @param\ obj\ the\ element\ to\ be\ added\ to\ the\ heap\r\n
+comment2.params=
+comment2.target=java.lang.Object\ removeMin()
+comment2.text=\ \r\n\ Removes\ element\ with\ the\ lowest\ value\ from\ this\ heap.\ \r\n\r\n\ @return\ the\ element\ with\ the\ lowest\ value\ from\ the\ heap\r\n
+comment3.params=
+comment3.target=java.lang.Object\ findMin()
+comment3.text=\ \r\n\ Returns\ a\ reference\ to\ the\ element\ with\ the\ lowest\ value\ in\ \r\n\ this\ heap.\ \r\n\r\n\ @return\ a\ reference\ to\ the\ element\ with\ the\ lowest\ value\ in\ the\ heap\r\n
+numComments=4

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArrayHeap
+comment0.text=\r\n\ ArrayHeap\ provides\ an\ array\ implementation\ of\ a\ minheap.\r\n\ \r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=
+comment1.target=ArrayHeap()
+comment1.text=\r\n\ Creates\ an\ empty\ heap.\r\n
+comment2.params=obj
+comment2.target=void\ addElement(java.lang.Object)
+comment2.text=\r\n\ Adds\ the\ specified\ element\ to\ this\ heap\ in\ the\ appropriate\r\n\ position\ according\ to\ its\ key\ value.\ \ \r\n\r\n\ @param\ obj\ the\ element\ to\ be\ added\ to\ the\ heap\r\n
+comment3.params=
+comment3.target=void\ heapifyAdd()
+comment3.text=\r\n\ Reorders\ this\ heap\ to\ maintain\ the\ ordering\ property\ after\r\n\ adding\ a\ node.\r\n
+comment4.params=
+comment4.target=java.lang.Object\ removeMin()
+comment4.text=\r\n\ Remove\ the\ element\ with\ the\ lowest\ value\ in\ this\ heap\ and\r\n\ returns\ a\ reference\ to\ it.\ Throws\ an\ EmptyCollectionException\ if\r\n\ the\ heap\ is\ empty.\r\n\r\n\ @return\ a\ reference\ to\ the\ element\ with\ the\ lowest\ value\ in\ this\ heap\r\n\ @throws\ EmptyCollectionException\ if\ the\ heap\ is\ empty\r\n
+comment5.params=
+comment5.target=void\ heapifyRemove()
+comment5.text=\r\n\ Reorders\ this\ heap\ to\ maintain\ the\ ordering\ property\r\n\ after\ the\ minimum\ element\ has\ been\ removed.\r\n
+comment6.params=
+comment6.target=java.lang.Object\ findMin()
+comment6.text=\r\n\ Returns\ the\ element\ with\ the\ lowest\ value\ in\ this\ heap.\r\n\ Throws\ an\ EmptyCollectionException\ if\ the\ heap\ is\ empty.\r\n\r\n\ @return\ the\ element\ with\ the\ lowest\ value\ in\ this\ heap\r\n\ @throws\ EmptyCollectionException\ if\ the\ heap\ is\ empty\r\n
+numComments=7

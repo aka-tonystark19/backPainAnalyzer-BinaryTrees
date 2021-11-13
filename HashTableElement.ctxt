@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=HashTableElement
+comment0.text=\r\n\ @author\ Aditya\ Phalod\r\n\ T00678151\r\n\ Describes\ the\ name\ and\ the\ ISBN\ of\ the\ books\ used\ for\ the\ hash\ table.\r\n
+comment1.params=name\ ISBN
+comment1.target=HashTableElement(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Public\ method\ to\ get\ the\ Name\r\n\ @return\ name\r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Public\ method\ to\ change\ the\ value\ of\ name\r\n
+comment4.params=
+comment4.target=int\ getISBN()
+comment4.text=\r\n\ Public\ method\ to\ get\ the\ ISBN\r\n\ @return\ ISBN\r\n
+comment5.params=
+comment5.target=boolean\ isDeleted()
+comment5.text=\r\n\ Public\ method\ to\ check\ whether\ an\ element\ has\ been\ deleted\r\n\ @return\ deleted\r\n
+comment6.params=deleted
+comment6.target=void\ setDeleted(boolean)
+comment6.text=\r\n\ Public\ method\ to\ change\ the\ value\ of\ deleted\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

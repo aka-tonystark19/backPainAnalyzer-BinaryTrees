@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DecisionTree
+comment0.text=\r\n\ The\ DecisionTree\ class\ uses\ the\ LinkedBinaryTree\ class\ to\ implement\ \r\n\ a\ binary\ decision\ tree.\ Tree\ elements\ are\ read\ from\ a\ given\ file\ and\ \ \r\n\ then\ the\ decision\ tree\ can\ be\ evaluated\ based\ on\ user\ input\ using\ the\r\n\ evaluate\ method.\ \r\n\ \r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=filename
+comment1.target=DecisionTree(java.lang.String)
+comment1.text=\r\n\ Builds\ the\ decision\ tree\ based\ on\ the\ contents\ of\ the\ given\ file\r\n\r\n\ @param\ filename\ the\ name\ of\ the\ input\ file\r\n\ @throws\ FileNotFoundException\ if\ the\ input\ file\ is\ not\ found\r\n
+comment2.params=
+comment2.target=void\ evaluate()
+comment2.text=\r\n\ \ Follows\ the\ decision\ tree\ based\ on\ user\ responses.\r\n
+numComments=3

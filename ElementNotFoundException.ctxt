@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ElementNotFoundException
+comment0.text=\r\n\ ElementNotFoundException\ represents\ the\ situation\ in\ which\ a\ target\ element\ \r\n\ is\ not\ present\ in\ a\ collection\r\n\r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=collection
+comment1.target=ElementNotFoundException(java.lang.String)
+comment1.text=\r\n\ Sets\ up\ this\ exception\ with\ an\ appropriate\ message.\r\n
+numComments=2

@@ -1,0 +1,20 @@
+13
+Do you want to exercise?
+Do you have a hunched back?
+Do you wish to do some weight training?
+Do you have persistent morning stiffness?
+Do you play any sports?
+Do you have pain or numbness in one arm or leg?
+Get a protien supplement.
+See doctor if pain persists.
+Practice Yoga regularly.
+See doctor to address symptoms.
+Not to worry, get back to exercise!
+You may have a sprain or strain.
+You may have a muscle or nerve injury.
+3 7 8
+4 9 10
+5 11 12
+1 3 4
+2 5 6
+0 1 2

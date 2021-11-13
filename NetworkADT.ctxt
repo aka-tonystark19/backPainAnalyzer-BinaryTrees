@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NetworkADT
+comment0.text=\r\n\ NetworkADT\ defines\ the\ interface\ to\ a\ network.\r\n\r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=vertex1\ vertex2\ weight
+comment1.target=void\ addEdge(java.lang.Object,\ java.lang.Object,\ double)
+comment1.text=\ \r\n\ Inserts\ an\ edge\ between\ two\ vertices\ of\ this\ graph.\ \r\n\r\n\ @param\ vertex1\ the\ first\ vertex\r\n\ @param\ vertex2\ the\ second\ vertex\r\n\ @param\ weight\ the\ weight\ \r\n
+comment2.params=vertex1\ vertex2
+comment2.target=double\ shortestPathWeight(java.lang.Object,\ java.lang.Object)
+comment2.text=\ \r\n\ Returns\ the\ weight\ of\ the\ shortest\ path\ in\ this\ network.\ \r\n\r\n\ @param\ vertex1\ the\ first\ vertex\r\n\ @param\ vertex2\ the\ second\ vertex\r\n\ @return\ the\ weight\ of\ the\ shortest\ path\ in\ this\ network\r\n
+numComments=3
